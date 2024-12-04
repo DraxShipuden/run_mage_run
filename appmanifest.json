@@ -4,7 +4,7 @@
 	"description": "Um Projeto de Jogo Digital feito em Construct 3 na escola SENAC MARILIA do Curso Técnico em desenvolvimento de jogos digitais.",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"background_color": "#ffffff",
 	"icons": [
 		{
